@@ -1,4 +1,4 @@
-# HashForge 🔐
+#    HashForge 
 
 A cybersecurity-focused web application for generating and verifying cryptographic hashes.
 
@@ -6,23 +6,23 @@ A cybersecurity-focused web application for generating and verifying cryptograph
 
 ## Features
 
-✅ Generate MD5 hashes
+ - Generate MD5 hashes
 
-✅ Generate SHA-1 hashes
+ - Generate SHA-1 hashes
 
-✅ Generate SHA-256 hashes
+ - Generate SHA-256 hashes
 
-✅ Generate SHA-512 hashes
+ - Generate SHA-512 hashes
 
-✅ Verify hashes against original text
+ - Verify hashes against original text
 
-✅ Copy hash values instantly
+ - Copy hash values instantly
 
-✅ Enter key support
+ - Enter key support
 
-✅ Security classification labels
+ - Security classification labels
 
-✅ Cyber-themed purple interface
+ - Cyber-themed purple interface
 
 ---
 
