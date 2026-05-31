@@ -29,8 +29,34 @@
 
     <div id="results"></div>
 
+<hr>
+
+<div class="verify-section">
+
+    <h2>Verify Hash</h2>
+
+    <!-- textareas here -->
+
 </div>
 
+<textarea
+    id="verifyText"
+    class="verify-box"
+    placeholder="Enter original text"></textarea>
+
+<textarea
+    id="verifyHash"
+    class="verify-box"
+    placeholder="Paste hash to verify"></textarea>
+
+<button onclick="verifyHash()">
+    Verify Hash
+</button>
+
+<div id="verifyResult"></div>
+
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.2.0/crypto-js.min.js"></script>
 <script src="script.js"></script>
 
 </body>
