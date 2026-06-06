@@ -3,6 +3,11 @@
 A cybersecurity-focused web application for generating and verifying cryptographic hashes.
 
 ---
+## Live Demo
+
+🌐 https://mishen-bma.github.io/HashForge/
+
+---
 
 ## Features
 
